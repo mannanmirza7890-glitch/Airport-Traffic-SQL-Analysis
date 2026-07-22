@@ -1,13 +1,11 @@
--- =====================================================================
+
 -- AIRPORT PASSENGER TRAFFIC - CASE STUDY SOLUTION
--- MySQL Workbench compatible script
--- Table used: airport_data (and city_population for Q7)
--- =====================================================================
 
 
--- =====================================================================
+
+
 -- 1. Analyze total passenger traffic per route and over time
--- =====================================================================
+
 
 -- 1a. Top 5 busiest routes by total passenger traffic
 -- Result: 
